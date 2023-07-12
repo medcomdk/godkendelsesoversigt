@@ -52,7 +52,7 @@ TABLE {
 font-family: "cairo", "Arial", "sans-serif"; 
 --color:#000000; 
 font-size: 8pt;
-table-layout: fixed;
+--table-layout: fixed;
 width: 100%} 
 
 /* Table header*/
